@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=webserver
 SSH_PORT=22
 SSH_USER=tobias
-SSH_TARGET_DIR=/var/www/blog
+SSH_TARGET_DIR=/srv/blog
 
 S3_BUCKET=my_s3_bucket
 
