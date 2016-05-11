@@ -4,9 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Toby'
 SITENAME = u'Int-0 blog'
-SITEURL = ''
+SITEURL = 'http://intzero.ddns.jazztel.es/blog'
 
 PATH = 'content'
+THEME = 'theme'
 
 TIMEZONE = 'Europe/Madrid'
 
